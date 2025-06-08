@@ -1,0 +1,19 @@
+title: Made by Zack
+description: Resources and notes for KS3/KS4 Computer Science
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Optional: configure the navigation
+nav:
+  - title: Home
+    url: /
+  - title: KS3
+    children:
+      - title: Year 7
+        url: /ks3/year7
+      - title: Year 8
+        url: /ks3/year8
+  - title: KS4
+    children:
+      - title: GCSE
+        url: /ks4/gcse
