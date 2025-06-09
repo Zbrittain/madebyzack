@@ -13,7 +13,11 @@ nav:
         url: /ks3/year7
       - title: Year 8
         url: /ks3/year8
+      - title: Year 9
+        url: /ks3/year8
   - title: KS4
     children:
-      - title: GCSE
-        url: /ks4/gcse
+      - title: Year 10
+        url: /ks4/year10
+      - title: Year 11
+        url: /ks4/year11
