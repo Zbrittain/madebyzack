@@ -4,7 +4,7 @@ parent: KS4
 nav_order: 1
 ---
 
-# Year 10 GCSE Computing
+# GCSE Computing
 
 Welcome to KS4 Computer Science!
 
