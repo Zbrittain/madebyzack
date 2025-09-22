@@ -6,4 +6,7 @@ nav_order: 1
 
 # Year 10 GCSE Computing
 
-Welcome to Year 10 Computing.
+Welcome to KS4 Computer Science!
+
+This paper 
+
