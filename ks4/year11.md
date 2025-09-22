@@ -4,6 +4,6 @@ parent: KS4
 nav_order: 2
 ---
 
-# Year 11 GCSE Computing
+# GCSE Computer Science
 
-Welcome to Year 11 Computing.
+Key Stage 4 Computer Science.
