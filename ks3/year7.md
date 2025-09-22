@@ -1,5 +1,5 @@
 ---
-title: Year 7 Computing
+title: Year 7 Computer Science
 nav_order: 1
 parent: KS3
 ---
