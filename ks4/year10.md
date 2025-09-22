@@ -1,5 +1,5 @@
 ---
-title: Year 10
+title: Paper 1 - Computer Systems.
 parent: KS4
 nav_order: 1
 ---
