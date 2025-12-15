@@ -12,9 +12,9 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 
 
 ## Paper 1 - Computer Systems 
-1.1. Systems Architecture
-  [1.1.1. Architecture of the CPU]
-  [1.1.2. CPU Performance]
-  [1.1.3. Embedded Systems]
+1. Systems Architecture
+  [1.1. Architecture of the CPU]
+  [1.1. CPU Performance]
+  [1.1. Embedded Systems]
 
 ## Paper 2 - Computational Thinking
