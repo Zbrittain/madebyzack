@@ -12,10 +12,14 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 
 
 ## Paper 1 - Computer Systems 
+
 1. Systems Architecture
-  1.1. Architecture of the CPU
-  1.2. CPU Performance
-  1.3. Embedded Systems
+2. Memory
+3. Computer Networks
+4. Network Security
+5. System Software
+6. Ethical, Legal, Cultural and Environmental Impacts
+   
 
 
 ## Paper 2 - Computational Thinking
