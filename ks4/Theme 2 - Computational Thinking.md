@@ -1,5 +1,5 @@
 ---
-title: Paper 1 - Computer Systems.
+title: Theme 2 - Computational Thinking
 parent: KS4
 nav_order: 2
 ---
