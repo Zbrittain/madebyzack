@@ -16,11 +16,17 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 1. Systems Architecture
 
     1.1. Architecture of the CPU
-2. Memory
-3. Computer Networks
-4. Network Security
-5. System Software
-6. Ethical, Legal, Cultural and Environmental Impacts
+    1.2. CPU Performance
+    1.3. Embedded Systems
+
+3. Memory
+
+    2.1. Primary Storage (Memory)
+    
+4. Computer Networks
+5. Network Security
+6. System Software
+7. Ethical, Legal, Cultural and Environmental Impacts
    
 
 
