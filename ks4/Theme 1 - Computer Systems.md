@@ -1,7 +1,7 @@
 ---
 title: Year 11
 parent: KS4
-nav_order: 2
+nav_order: 1
 ---
 
 # GCSE Computer Science
