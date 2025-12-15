@@ -14,6 +14,7 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 ## Paper 1 - Computer Systems 
 
 1. Systems Architecture
+   1.1. Architecture of the CPU
 2. Memory
 3. Computer Networks
 4. Network Security
