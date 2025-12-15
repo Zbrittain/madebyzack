@@ -1,7 +1,7 @@
 ---
 title: Paper 1 - Computer Systems.
 parent: KS4
-nav_order: 1
+nav_order: 2
 ---
 
 # GCSE Computing
