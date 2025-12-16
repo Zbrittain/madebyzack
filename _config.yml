@@ -16,9 +16,9 @@ nav:
         url: /ks3/year8
       - title: Year 9
         url: /ks3/year8
-  - title: GCSE
+  - title: KS4
     children:
-      - title: Computer Systems
-        url: /gcse/comp_sys
-      - title: Computational Thinking
-        url: /gcse/comp_think
+      - title: System Architecture
+        url: /ks4/01_system_architecture
+      - title: Memory
+        url: /ks4/01_memory
