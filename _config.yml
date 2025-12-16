@@ -19,6 +19,6 @@ nav:
   - title: KS4
     children:
       - title: System Architecture
-        url: /ks4/01_system_architecture
+        url: /ks4/system_architecture
       - title: Memory
         url: /ks4/01_memory
