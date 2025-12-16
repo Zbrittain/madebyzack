@@ -1,5 +1,5 @@
 ---
-layout: page
 title: System Architecture
-permalink: /system_architecture/
+nav_order: 1
+parent: KS4
 ---
