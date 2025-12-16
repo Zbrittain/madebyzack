@@ -56,3 +56,41 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 
 
 ## Paper 2 - Computational Thinking
+
+1. Algorithms
+
+    1.1 Computational thinking
+    
+    1.2 Designing, creating and refining algorithms
+    
+    1.3 Searching and sorting algorithms
+
+1. Algorithms
+
+2.1 Programming fundamentals
+
+2.2 Data types
+
+2.3 Additional programming techniques
+
+
+
+3.1 Defensive design
+
+3.2 Testing
+
+
+
+4.1 Boolean logic
+
+
+
+5.1 Languages
+
+5.2 The Integrated Development Environment (IDE)
+
+
+
+
+
+
