@@ -13,15 +13,15 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 
 ## Paper 1 - Computer Systems 
 
-1. **Systems Architecture** <br>
-    1.1 Architecture of the CPU <br>
-    1.2 CPU Performance <br>
-    1.3 Embedded Systems <br>
+1. **Systems Architecture**  
+    1.1 Architecture of the CPU  
+    1.2 CPU Performance  
+    1.3 Embedded Systems  
 
-2. **Memory** <br>
-    2.1. Primary Storage (Memory) <br>
-    2.2. Secondary Storage <br>
-    2.3. Units <br>
+2. **Memory**  
+    2.1. Primary Storage (Memory)  
+    2.2. Secondary Storage  
+    2.3. Units  
     2.4. Data Storage <br>
     2.5. Compression <br>
     
