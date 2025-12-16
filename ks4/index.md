@@ -77,11 +77,11 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 
     3.2. Testing
 
-4. Boolean Logic
+4. **Boolean Logic
 
     4.1. Boolean logic
 
-5. Languages
+5. **Languages
 
     5.1. Languages
 
