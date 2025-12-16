@@ -13,32 +13,29 @@ This section is for the OCR J277 Computer Science GCSE (Papers 1 and 2)
 
 ## Paper 1 - Computer Systems 
 
-1. **Systems Architecture**
+1. **Systems Architecture** <br>
+    1.1. Architecture of the CPU <br>
+    1.2. CPU Performance <br>
+    1.3. Embedded Systems <br>
 
-    1.1. Architecture of the CPU<br>
-    1.2. CPU Performance
-    1.3. Embedded Systems
-
-2. **Memory**
-   
-    2.1. Primary Storage (Memory)
-    2.2. Secondary Storage
-    2.3. Units
-    2.4. Data Storage
-    2.5. Compression
+2. **Memory** <br>
+    2.1. Primary Storage (Memory) <br>
+    2.2. Secondary Storage <br>
+    2.3. Units <br>
+    2.4. Data Storage <br>
+    2.5. Compression <br>
     
-3. **Computer Networks, Connections and Protocols**
+3. **Computer Networks, Connections and Protocols** <br>
+    3.1. Networks and Topologies <br>
+    3.2. Wired and Wirless Networks, Protocols and Layers <br>
    
-    3.1. Networks and Topologies
-    3.2. Wired and Wirless Networks, Protocols and Layers
+7. **Network Security** <br>
+    4.1. Threats to computer systems and networks <br>
+    4.2 Identifying and preventing vulnerabilities <br>
    
-7. **Network Security**
-    4.1. Threats to computer systems and networks
-    4.2 Identifying and preventing vulnerabilities
-   
-8. **System Software**
-    5.1 Operating systems
-    5.2 Utility software
+8. **System Software** <br>
+    5.1 Operating systems <br>
+    5.2 Utility software <br>
 
 9. **Ethical, Legal, Cultural and Environmental Impacts**
    6.1. Ethical, Legal, Cultural and Environmental Impacts
